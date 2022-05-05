@@ -1,20 +1,37 @@
-#FinalProject-Web
-Aplicacion web donde puedes chatear con cualquier persona
+# Fire-Chat 
+Web application where you can chat with anyone
 
-Librerias usadas
--Firebase
--Firebase Hooks
--Material ui
+## Dependencys used in this project :man_technologist:
+- Firebase
+- Firebase Hooks
+- Material ui
+- Auth usuario (FireBase)
 
-Auth usuario
-Fue hecho con Google(login)
+## Technologies used in this project :smiley:
+- React
+- Pure CSS
 
-Este proyecto fue hecho en react teniendo como backend firebase,utilize firebase-hooks para tener mas sencillo el signin/signout y el material ui para los botones y lo demas
-(estettica) fue hecho con puro css.
+## Prerequisites :bookmark_tabs:
+1. You have to install git to clone the proyect
+2. Visual studio code 
+3. Need to know react 
 
-Tambien utilice funciones para cuando un mensaje aparezca automaticamente la barra de desplazamiento baje y utilice jsx para poder usar los firebase hooks para que si el usuario no esta logeado no se le presente la aplicacion de chat solo se presenta si el usuario esta logeado
+## How to clone :sunglasses:
+1. You have to copy the link in the code section
+2. Next you have to use git and the command in it git clone
+3. Thats all you have clone the proyect
 
-Imagenes
+## Installation Process :gear:
+```
+npm install 
+or
+yar add
+
+Note:
+With this the yarn or npm will add all dependencies necessaries to run the project
+```
+
+## Preview :space_invader:
 Login
 ![Captura](https://user-images.githubusercontent.com/78440424/128394389-ae60a634-e02e-4911-a2f1-dbf3fa6135c7.PNG)
 
@@ -27,9 +44,7 @@ Sign out
 BD Firebase
 ![Captura(Firebase)](https://user-images.githubusercontent.com/78440424/128395154-4d6ec2ef-bd0a-4617-ac02-99f5eb9a1555.PNG)
 
-
-
-Tambien la App tiene un hosting con firebase:
+## Demo :sunglasses:
 https://firechat-c0518.web.app/
 
 
